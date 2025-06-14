@@ -2,7 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyWeb", "BulkyWeb\BulkyWeb.csproj", "{8A46186A-F35D-4505-8DCB-E1307F7A4647}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyWebRazor_Temp", "BulkyWebRazor_Temp\BulkyWebRazor_Temp.csproj", "{DA64B8E4-CF74-4156-9B31-9BE3E17DF871}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.DataAccess", "Bulky.DataAccess\Bulky.DataAccess.csproj", "{2E13678B-EBC3-4AC1-86E2-750FB1FF5EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Models", "Bulky.Models\Bulky.Models.csproj", "{52B62BD8-E48C-478B-A2EF-F9EF5FE12683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Utility", "Bulky.Utility\Bulky.Utility.csproj", "{290E2568-2A6F-4590-806A-ADBDC45A41D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +18,17 @@ Global
 		{8A46186A-F35D-4505-8DCB-E1307F7A4647}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A46186A-F35D-4505-8DCB-E1307F7A4647}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A46186A-F35D-4505-8DCB-E1307F7A4647}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA64B8E4-CF74-4156-9B31-9BE3E17DF871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA64B8E4-CF74-4156-9B31-9BE3E17DF871}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA64B8E4-CF74-4156-9B31-9BE3E17DF871}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA64B8E4-CF74-4156-9B31-9BE3E17DF871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E13678B-EBC3-4AC1-86E2-750FB1FF5EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E13678B-EBC3-4AC1-86E2-750FB1FF5EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E13678B-EBC3-4AC1-86E2-750FB1FF5EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E13678B-EBC3-4AC1-86E2-750FB1FF5EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B62BD8-E48C-478B-A2EF-F9EF5FE12683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B62BD8-E48C-478B-A2EF-F9EF5FE12683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B62BD8-E48C-478B-A2EF-F9EF5FE12683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B62BD8-E48C-478B-A2EF-F9EF5FE12683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290E2568-2A6F-4590-806A-ADBDC45A41D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290E2568-2A6F-4590-806A-ADBDC45A41D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290E2568-2A6F-4590-806A-ADBDC45A41D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290E2568-2A6F-4590-806A-ADBDC45A41D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
